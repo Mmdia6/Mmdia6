@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Mohammad Esmail Aligholi 👋
 
-<!--
-**Mmdia6/Mmdia6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & Python Developer
 
-Here are some ideas to get you started:
+I'm a developer focused on building backend systems, automation tools, APIs, and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical software and continuously improving my skills through real-world projects.
+
+---
+
+## 🚀 What I Work With
+
+- Backend Development
+- Python & Automation
+- PHP & Web Development
+- REST APIs
+- Database Design
+- React & Modern Frontend
+- Linux & Server Management
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python · PHP · JavaScript · TypeScript · C# · Solidity
+
+**Backend & Database**
+
+MySQL · Redis
+
+**Frontend**
+
+HTML · CSS · React · Tailwind CSS · Bootstrap
+
+**Tools & Platforms**
+
+Git · GitHub · Linux · WordPress · WooCommerce
+
+---
+
+## 📌 Featured Projects
+
+Projects showcasing my experience in backend development, automation, web development, and Python.
+
+> More projects will be added as I continue building and improving my portfolio.
+
+---
+
+## 🌐 Website
+
+[mealigholi.ir](https://mealigholi.ir)
+
+---
+
+## 📫 Contact
+
+GitHub: [@Mmdia6](https://github.com/Mmdia6)
