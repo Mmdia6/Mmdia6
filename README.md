@@ -1,59 +1,99 @@
-# Hi, I'm Mohammad Esmail Aligholi 👋
+# Mohammad Esmaeil Aligholi
 
-### Backend & Python Developer
+### Full-Stack & Blockchain Developer | Smart Contract Engineer
 
-I'm a developer focused on building backend systems, automation tools, APIs, and web applications.
+Full-Stack and Blockchain Developer with **4+ years of professional experience** and **6+ years of programming background**, focused on building production-ready **Telegram Mini Apps, high-throughput backends, Web3 applications, and secure smart contracts**.
 
-I enjoy turning ideas into practical software and continuously improving my skills through real-world projects.
-
----
-
-## 🚀 What I Work With
-
-- Backend Development
-- Python & Automation
-- PHP & Web Development
-- REST APIs
-- Database Design
-- React & Modern Frontend
-- Linux & Server Management
+I work across the stack—from architecture and backend systems to responsive interfaces, blockchain integrations, admin panels, payments, and production deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-**Languages**
+- 🤖 Telegram Bots & Mini Apps
+- ⛓️ Blockchain & Web3 Applications
+- 🔐 Solidity Smart Contracts
+- ⚡ High-performance Python backends
+- 💳 Crypto payments & Telegram Stars integrations
+- 🛠️ Admin dashboards & automation systems
+- 🌐 Full-stack web applications
 
-Python · PHP · JavaScript · TypeScript · C# · Solidity
+---
 
-**Backend & Database**
+## Technical Stack
 
-MySQL · Redis
+**Blockchain & Web3**
+
+Solidity · ERC-20 · ERC-721 · ERC-1155 · Ethereum · BNB Chain · Polygon · Web3.js · Ethers.js · MetaMask · Smart Contract Auditing
+
+**Backend**
+
+Python · FastAPI · Redis · PHP · MySQL · REST APIs · Telegram Bot API · Automation & Scripting
 
 **Frontend**
 
-HTML · CSS · React · Tailwind CSS · Bootstrap
+HTML5 · CSS3 · JavaScript · TypeScript · React · Bootstrap · Material UI · Telegram Mini Apps
 
 **Tools & Platforms**
 
-Git · GitHub · Linux · WordPress · WooCommerce
+Git · GitHub · Linux · WordPress · cPanel
+
+**AI-Assisted Development**
+
+GitHub Copilot · ChatGPT · Claude · Gemini · Prompt Engineering
 
 ---
 
-## 📌 Featured Projects
+## Professional Experience
 
-Projects showcasing my experience in backend development, automation, web development, and Python.
+### Freelance Full-Stack, Blockchain & Telegram Developer
+**Self-Employed · Jul 2022 – Present**
 
-> More projects will be added as I continue building and improving my portfolio.
+- Architected and delivered **10+ production Telegram Mini Apps and Bots**, including trading, Tap-to-Earn, P2P crypto exchange, and AI visa consultation systems.
+- Built complete products with **admin panels, real-time features, payment systems, and automated workflows**.
+- Developed e-commerce, educational, and media-sharing platforms with responsive UIs and robust backends.
+- Integrated **cryptocurrency payments and Telegram Stars** for on-chain and in-app transactions.
+- Engineered Python backends with **FastAPI + Redis** for low-latency caching and concurrent workflows.
+- Designed administration dashboards for users, transactions, content, and analytics.
+
+### Senior Blockchain & Full-Stack Developer
+**Vetamerse · Feb 2022 – Jul 2022**
+
+- Designed and developed a **multi-chain NFT marketplace** for Ethereum, BNB Chain, and Polygon.
+- Authored, audited, and deployed Solidity smart contracts for token minting, marketplace trading, and automated royalty distribution.
+- Integrated **Web3.js and Ethers.js** for wallet connectivity and on-chain interactions.
 
 ---
 
-## 🌐 Website
+## Featured Projects
 
-[mealigholi.ir](https://mealigholi.ir)
+> Selected production projects will be added here with source code, architecture notes, screenshots, and live demos.
+
+- **Telegram Trading Bot** — Python · Telegram Bot API · Redis · MySQL
+- **Telegram Mini Apps** — Full-stack TMA products with admin panels and payment integrations
+- **Multi-chain NFT Marketplace** — Solidity · Ethereum · BNB Chain · Polygon
+- **Crypto Payment Systems** — On-chain payments and Telegram Stars
+- **Python Automation & Backend Systems** — FastAPI · Redis · Automation
 
 ---
 
-## 📫 Contact
+## Education
 
-GitHub: [@Mmdia6](https://github.com/Mmdia6)
+**Vocational Qualification Certificate – Software Development**  
+Iranian Technical & Vocational Training Organization (TVTO)
+
+**Self-Directed Professional Development · 2020 – Present**
+
+Project-based learning in Computer Science fundamentals, Blockchain Architecture, Smart Contract Security, and Full-Stack Engineering.
+
+---
+
+## Portfolio
+
+🌐 **Website:** [mealigholi.ir](https://mealigholi.ir)
+
+📧 **Email:** me.aligholi@gmail.com
+
+---
+
+### Building practical software from architecture to production.
